@@ -1,0 +1,12 @@
+{
+    "name": "akira/flower_coin",
+    "authors": [
+        {
+            "name": "Guitar",
+            "email": "Phakjira0062@gmail.com"
+        }
+    ],
+    "require": {
+        "wmh/php-ecrecover": "dev-master"
+    }
+}
